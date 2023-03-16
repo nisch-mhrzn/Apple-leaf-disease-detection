@@ -11,7 +11,7 @@ First of all it is recommended to work on an virtual environment for a project a
   python -m venv virtual-environment-name
 
 # Activating the environment
-virtual-environment-name/bin/activate
+virtual-environment-name/scripts/activate
   
  # Installing required modules
   pip install -r requirements.txt
