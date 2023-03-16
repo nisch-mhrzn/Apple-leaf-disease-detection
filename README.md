@@ -8,7 +8,7 @@ First of all it is recommended to work on an virtual environment for a project a
  pip install virtualenv
  
  # Create  a virtual environment
-  python -m venv <virtual-environment-name>
+  python -m venv virtual-environment-name
 
 # Activating the environment
 virtual-environment-name/bin/activate
