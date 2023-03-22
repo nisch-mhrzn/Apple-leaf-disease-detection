@@ -1,7 +1,7 @@
 altair==4.2.2
 keras==2.11.0
 matplotlib
-numpy==1.24.2
+numpy
 opencv_python==4.7.0.68
 pandas==1.5.3
 Pillow==9.4.0
