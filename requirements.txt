@@ -6,6 +6,7 @@ opencv_python==4.7.0.68
 pandas
 Pillow==9.4.0
 pyrebase==3.0.27
+protobuf 
 Pyrebase4==4.6.0
 scipy
 streamlit
