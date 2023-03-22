@@ -24,7 +24,7 @@ firebase-admin==6.1.0
 flatbuffers==23.1.21
 fonttools==4.38.0
 gast==0.4.0
-gcloud==0.18.3
+gcloud
 gitdb==4.0.10
 GitPython==3.1.30
 google-api-core>=2.11.0,<3.0.0
@@ -33,14 +33,14 @@ google-auth==2.16.0
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
 google-cloud-core==2.3.2
-google-cloud-firestore==2.9.1
+google-cloud-firestore
 google-cloud-storage==2.7.0
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.4.1
-googleapis-common-protos==1.58.0
+googleapis-common-protos
 grpcio==1.51.1
-grpcio-status==1.51.1
+grpcio-status
 h5py==3.8.0
 htbuilder==0.6.1
 httplib2==0.21.0
@@ -70,7 +70,7 @@ opt-einsum==3.3.0
 packaging==23.0
 pandas==1.5.3
 Pillow==9.4.0
-proto-plus==1.22.2
+proto-plus
 protobuf
 pyarrow==11.0.0
 pyasn1==0.4.8
@@ -101,7 +101,7 @@ six==1.16.0
 smmap==5.0.0
 soupsieve==2.4
 st-annotated-text==3.0.0
-streamlit==1.19.0
+streamlit
 streamlit-camera-input-live==0.2.0
 streamlit-card==0.0.4
 streamlit-embedcode==0.1.2
@@ -116,10 +116,10 @@ streamlit-vertical-slider==1.0.2
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow<2.11.0
+tensorflow
 tensorflow-estimator==2.11.0
 tensorflow-hub==0.12.0
-tensorflow-intel<2.11.0
+tensorflow-intel<
 tensorflow-io-gcs-filesystem==0.30.0
 termcolor==2.2.0
 toml==0.10.2
