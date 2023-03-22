@@ -119,7 +119,7 @@ tensorboard-plugin-wit==1.8.1
 tensorflow
 tensorflow-estimator==2.11.0
 tensorflow-hub==0.12.0
-tensorflow-intel<
+tensorflow-intel
 tensorflow-io-gcs-filesystem==0.30.0
 termcolor==2.2.0
 toml==0.10.2
