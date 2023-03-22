@@ -7,9 +7,9 @@ pandas
 Pillow==9.4.0
 pyrebase==3.0.27
 Pyrebase4==4.6.0
-scipy==1.10.1
+scipy
 streamlit
-streamlit_option_menu==0.3.2
+streamlit_option_menu
 tensorflow
-tensorflow_hub==0.12.0
-tensorflow_intel==2.11.0
+tensorflow_hub
+tensorflow_intel
